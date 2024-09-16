@@ -672,7 +672,7 @@ new.ipynb
 dress3.jpg
 model2.jpg
 IDM-VTON/yisol/
-IDM-VTON/ckpt/
+# IDM-VTON/ckpt/
 
 .bashrc
 .condarc
